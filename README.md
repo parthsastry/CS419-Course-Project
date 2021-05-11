@@ -5,5 +5,5 @@ In this project, we aim to use a Reinforcement Learning model for mastering the 
 ### Our team (ML Bois):
 Abir Mehta
 Gagan Jain
-Parth Shastry
+Parth Sastry
 Tanul Gupta
