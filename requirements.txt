@@ -1,0 +1,8 @@
+pip
+python3.7-venv 
+matplotlib
+tensorflow==2.4.1
+opencv-python
+gym
+gym[atari]
+scikit-learn
