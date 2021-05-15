@@ -22,15 +22,13 @@ To enter the virtual environment, run -
 
 Then, you need to install the packages mentioned in the virtual environment when running for the first time. This is to be done only once.  
 
-`
-pip install -upgrade pip  
-python3.7 -m pip install matplotlib  
-python3.7 -m pip install tensorflow==2.4.1  
-python3.7 -m pip install opencv-python  
-python3.7 -m pip install gym  
-python3.7 -m pip install gym[atari]  
-python3.7 -m pip install scikit-learn  
-`  
+`pip install -upgrade pip  `
+`python3.7 -m pip install matplotlib  `
+`python3.7 -m pip install tensorflow==2.4.1  `
+`python3.7 -m pip install opencv-python  `
+`python3.7 -m pip install gym  `
+`python3.7 -m pip install gym[atari]  `
+`python3.7 -m pip install scikit-learn  `  
 
 In order to run the training, run -   
 `python3.7 train.py
