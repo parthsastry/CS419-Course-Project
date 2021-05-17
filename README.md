@@ -1,5 +1,5 @@
 ### CS419 Final Project: Group ML Bois :)
-#### Team members: Abir Mehta, Gagan Jain, Parth Shastry, Tanul Gupta
+#### Team members: Abir Mehta, Gagan Jain, Parth Sastry, Tanul Gupta
 
 Our project is to create an intelligent agent that learns to play the atari game Breakout by using a Double Deep Q-network along with experience replay.  
 
